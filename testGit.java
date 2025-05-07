@@ -7,4 +7,7 @@ public class testGit {
 		System.out.print("second line ");
 
 	}
+
+	System.out.print("third line ");
+}
 }
